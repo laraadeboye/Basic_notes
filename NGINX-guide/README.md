@@ -15,7 +15,7 @@ AI-GENERATED CONTENT
 11. Performance Tuning
 12. Common Issues and Troubleshooting
 
-&nsbp;
+&nbsp;
 
 1. Introduction to NGINX
 NGINX is a high-performance web server, reverse proxy server, and load balancer. It is known for its stability, rich feature set, simple configuration, and low resource consumption.
